@@ -1,5 +1,6 @@
 # Udacity-DRL-Navigation
 This repo is an implementation to the first project, called Navigation, in the [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
+<p align="center"><img src=banana.gif></p>
 
 ## Project Description 
 In this project, it is required to train an agent to be able to navigate and collect as much yellow bananas it can without hitting blue bananas. It is an episodic task and the training ends when the agent manages to have a score of +13 or above for 100 consecutive episodes.
