@@ -33,4 +33,9 @@ In the terminal run the following command (make sure you are in the correct dire
 ```shell
 $ jupyter notebook
 ```
-This will open jupyter notebook in the browser, in which you can add the files from this repository to be able to run the code implemented here.
+This will open jupyter notebook in the browser, in which you can add the files from this repository to be able to run the code implemented here. 
+- Navigation.ipynb contains the code that you should run to train the agents.
+- model.py contains the Vanille DQN and the Dueling DQN networks.
+- dqn_agent.py contains the implementation of the agent step, act and learn, as well as the replay buffer.
+- checkpoint files contain the trained models that can be loaded and used directly.
+
